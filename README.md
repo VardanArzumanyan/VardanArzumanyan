@@ -1,17 +1,7 @@
 <h1 align="center">Hi, I'm Vardan Arzumanyan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com
-  ?color=0A66C2
-  &size=28
-  &center=true
-  &vCenter=true
-  &width=700
-  &height=50
-  &lines=Welcome+to+my+GitHub+profile!;
-Frontend+Software+Engineer;
-React+%26+TypeScript+Developer;
-Building+Scalable+Web+Applications" 
+  <img src="https://readme-typing-svg.herokuapp.com/?color=0A66C2&size=28&center=true&vCenter=true&width=700&height=50&lines=Welcome+to+my+GitHub+%F0%9F%91%8B;Frontend+Software+Engineer;React+%26+TypeScript;Enterprise+Web+Applications" 
   alt="Headline" />
 </div>
 
@@ -29,7 +19,6 @@ Building+Scalable+Web+Applications"
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="80" height="80" />
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="80" height="80" />
   <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="80" height="80" />
-  <img src="https://techstack-generator.vercel.app/nextjs-icon.svg" alt="Next.js" width="80" height="80" />
 </div>
 
 <br>
@@ -37,7 +26,6 @@ Building+Scalable+Web+Applications"
 <div align="center">
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="80" height="80" />
   <img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="Jest" width="80" height="80" />
-  <img src="https://techstack-generator.vercel.app/vite-icon.svg" alt="Vite" width="80" height="80" />
   <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="Webpack" width="80" height="80" />
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="80" height="80" />
 </div>
