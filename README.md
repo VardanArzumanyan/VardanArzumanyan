@@ -25,9 +25,9 @@
 
 <div align="center">
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="80" height="80" />
-  <img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="Jest" width="80" height="80" />
   <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="Webpack" width="80" height="80" />
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="80" height="80" />
+  <img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="Jest" width="80" height="80" />
 </div>
 
 <br><br>
@@ -43,8 +43,6 @@
 ➤ Backend (server-side JavaScript/TypeScript): Node.js, Express.js,
 <br>
 ➤ Architecture & Design: Microfrontend Architecture, FSD, Atomic Design, Component-Based Architecture
-<br>
-➤ Databases: MongoDB
 <br>
 ➤ Collaboration & Processes: Git, Agile methodologies, automated development pipelines
 <br>
